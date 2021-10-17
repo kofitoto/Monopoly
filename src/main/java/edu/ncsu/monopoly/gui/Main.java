@@ -1,7 +1,6 @@
 package edu.ncsu.monopoly.gui;
 
 import javax.swing.JOptionPane;
-
 import edu.ncsu.monopoly.*;
 
 public class Main {

@@ -1,5 +1,4 @@
 package edu.ncsu.monopoly.gui;
-
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
@@ -10,12 +9,10 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 import java.util.List;
-
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.border.LineBorder;
-
 import edu.ncsu.monopoly.*;
 import edu.ncsu.monopoly.Cell;
 import edu.ncsu.monopoly.GameBoard;
